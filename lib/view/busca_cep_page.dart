@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:aplicacao2/service/invertexto_service.dart';
+import 'package:attdart/service/invertexto_service.dart';
 
 class BuscaCepPage extends StatefulWidget {
   const BuscaCepPage({super.key});
